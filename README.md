@@ -2,4 +2,6 @@
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn knex:migrate` to create local database
+
+### `yarn start` to start app
